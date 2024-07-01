@@ -13,7 +13,7 @@ def load_and_process_image(image_file):
     return img
 
 # Load your trained model
-model_path = '/content/cats-v-dogs-classification_model.h5'  # Update with your model path
+model_path = 'cats-v-dogs-classification_model.h5'  # Update with your model path
 model = tf.keras.models.load_model(model_path)
 
 # Streamlit UI
