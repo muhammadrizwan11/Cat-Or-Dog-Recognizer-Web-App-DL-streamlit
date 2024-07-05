@@ -36,4 +36,3 @@ This repository contains a Convolutional Neural Network (CNN) model for classify
 To run the Streamlit application, use the following command:
 ```bash
 streamlit run app.py
-# Cat-Or-Dog-Recognizer-Web-App-DL-streamlit
